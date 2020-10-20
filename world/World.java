@@ -19,7 +19,13 @@ public class World
 
     World[][] world;
     static Barrier[] barrier;
-
+/////////////////////////////////////////////////////
+//
+// Programmer: wichasith chaisrithong
+//
+// Description: create class robot and built grid in world & create drawinng but can't use
+// 
+/////////////////////////////////////////////////////
     Robot robot;
     public static void main(String[] args) {
         JFrame frame = new JFrame();
